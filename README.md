@@ -12,7 +12,7 @@ Cada estudiante deberá subir todos los archivos, documentos, scripts, bases de 
 
 ## Estructura del Repositorio
 
-Cada estudiante debe crear una carpeta con su **nombre completo en MAYÚSCULAS**, siguiendo el siguiente formato:
+Cada estudiante debe crear una carpeta con su **nombres y apellidos completos en MAYÚSCULAS**, siguiendo el siguiente formato:
 
 ```text
 /
@@ -24,16 +24,7 @@ Cada estudiante debe crear una carpeta con su **nombre completo en MAYÚSCULAS**
 
 ### Contenido de la carpeta
 
-Dentro de su carpeta personal deben incluir:
-
-* Modelo dimensional.
-* Scripts SQL.
-* Archivos CSV o datasets utilizados.
-* Documentación del proyecto.
-* Reporte final.
-* Dashboard (Power BI, Tableau, etc.).
-* Presentación.
-* Cualquier otro recurso relacionado con el proyecto.
+Dentro de su carpeta personal deben incluir todos los archivos y recursos utilizados dentro de su proyecto.
 
 ---
 
